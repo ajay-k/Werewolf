@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Werewolf</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	    <string name="html"><br><h3>How to Play:</h3></br>
+<br></br>
+<b><u>Adding Players:</u> Open the menu by pressing the menu button on your device and click "Add Players", this app will automatically open up your contact book and allow you to add your friends from your address book.</b>
+<br></br>
+<b><u>Settings:</u> You are able to choose the length of the day by clicking next to the "Day Length" option incremented by 5 minutes. You are also able to choose how many werewolves, fortune tellers, and hunters are allowed to fit your playing style.</b>
+<br></br>
+<b><u>Exit:</u> Closes the app.</b>
+<br></br>
+<b><h3>Objective:</h3></b>
+<br></br>
+Find the werewolves hidden amongst your peers by talking and intereacting during the night time phase of the game. During the day time phase, you can decide who to kill that you may suspect is a werewolf. If the werewolves overpower the villagers, the werewolves win.
+<br></br>
+<b><h3>Characters:</h3></b>
+<br></br>
+<b><u>Werewolf:</u> Kill as many vilagers as you can without arousing suspect from your peers. Work together with other werewolves if possible to increase your chances of winning.</b>
+<br></br>
+<b><u>Villager:</u> Work together with other people who you suspect are villagers to team up and vote out the werewolves.</b>
+<br></br>
+<b><u>Fortune Teller:</u> Each time it is your turn you will be able to pick one player and see there role in the game. You are able to tell other players your role and findings, but this may increase your chances of death by the werewolves.</b>
+
+         </string>
+</resources>

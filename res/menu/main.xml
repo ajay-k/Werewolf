@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/instruct"
+        android:title="Instructions"/>
+    <item
+        android:id="@+id/addPlayers"
+        android:title="Add Players"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"/>
+
+</menu>

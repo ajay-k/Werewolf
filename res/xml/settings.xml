@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="General Settings" >
+        <ListPreference
+            android:entries="@+array/dayTime"
+            android:entryValues="@+array/dValues"
+            android:key="dayTime"
+            android:summary="Choose the length of the day"
+            android:title="Day Length" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Number of Characters" >
+    
+        <ListPreference
+            android:entries="@+array/numWerewolves"
+            android:entryValues="@+array/wolvesValues"
+            android:key="numWerewolves"
+            android:summary="Choose the number of Werewolves"
+            android:title="Werewolves" />
+        <ListPreference
+            android:entries="@+array/numFortune"
+            android:entryValues="@+array/fortuneValues"
+            android:key="numFortune"
+            android:summary="Choose the number of Fortune Tellers"
+            android:title="Fortune Tellers" />
+        <ListPreference
+            android:entries="@+array/numHunters"
+            android:entryValues="@+array/huntersValues"
+            android:key="numHunters"
+            android:summary="Choose the number of Hunters"
+            android:title="Hunters" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
